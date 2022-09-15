@@ -1,4 +1,4 @@
-# <center>MaxScript Quick Copy Paste Object
+# <center> MaxScript Quick Copy Paste Object </center>
 
 > **Features**
 ---
