@@ -1,4 +1,4 @@
-# <center> MaxScript Quick Copy Paste Object </center>
+# <center> MaxScript Quick Copy Paste </center>
 
 <br>
 
